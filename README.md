@@ -3,7 +3,7 @@
 > A structured repository of **machine learning** and **deep learning** course materials, assignments, and notes from Coursera specializations.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Machine Learning" width="480"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8MJHyTASOry/giphy.gif" alt="Neural network" width="480"/>
 </p>
 
 ---
