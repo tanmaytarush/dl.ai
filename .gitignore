@@ -1,0 +1,8 @@
+*.h5
+*.zip
+*.mp4
+*.npy
+*.mat
+*.txt
+datasets/
+models/
